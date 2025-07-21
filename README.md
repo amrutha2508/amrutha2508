@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=500&color=1D97F7FF&width=435&lines=A+Data+Science+gradute.;+Welcome+to+my+GitHub+page!;Let's+connect+to+discuss+more+about+Data!)](https://git.io/typing-svg)
 
 ### Thanks for giving it a glance 🥳
+### View my portfolio  here : <a href="https://amrutha2508.github.io/html-portfolio/">Portfolio</a>
 
 <h3 align="left">Let's connect at :</h3>
 
@@ -18,13 +19,13 @@
 
 - 💬 Ask me about **Data Science**
 
-- 📫 Reach me at **amrutha.karuturi@rutgers.edu**
+- 📫 Reach me at **ak2508@scarletmail.rutgers.edu**
 
 ---
 
 ### Who am I ?? <br/>
-#### 🎓 Data Science Graduate Student at [Rutgers University, New Brunswick](https://msds-stat.rutgers.edu/)<br>
-#### 👩‍💻 Working as a Recitation Lecturer at Rutgers University where I teach technical topics of data science to a non-technical audience through R Language.<br> 
+#### 🎓 Graduated from [Rutgers University, New Brunswick](https://msds-stat.rutgers.edu/)<br> with Masters in Data Science - Statistics.
+#### 👩‍💻 Worked as a Recitation Lecturer at Rutgers University where I teach technical topics of data science to a non-technical audience through R Language.<br> 
 #### ⚡ A data enthusiast who loves to explore new technologies and leverage it to solve real-life problems. <br>
 #### ❤ I enjoy playing with data and exploring new technologies.<br />
 
